@@ -4,6 +4,10 @@
 An end-to-end Power BI dashboard analyzing social media advertising performance using simulated campaign data.  
 The project focuses on campaign health, ad-level optimization, and audience engagement insights using estimated metrics.
 ---
+<img width="1286" height="690" alt="image" src="https://github.com/user-attachments/assets/e7b38213-a597-4310-b1d2-f98074be68e5" />
+<img width="1296" height="731" alt="image" src="https://github.com/user-attachments/assets/ab4a8740-d394-4c84-95f3-3431473085c8" />
+<img width="1289" height="716" alt="image" src="https://github.com/user-attachments/assets/ffbfe756-a32b-4c8c-b036-b3613d13b051" />
+---
 
 ## 🔍 Overview
 This dashboard evaluates how social media ad campaigns perform across platforms (Facebook & Instagram), ads, and audiences.  
